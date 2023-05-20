@@ -1,0 +1,4 @@
+.cards__item {
+    display: block;
+    max-width: 240px;
+}
